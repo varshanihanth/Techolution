@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61145" started-at="2019-06-21T12:57:58Z" finished-at="2019-06-21T12:58:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61145" started-at="2019-06-21T12:57:58Z" finished-at="2019-06-21T12:58:59Z">
+      <class name="com.bseindia.LoginPage.bseindiapoc">
+        <test-method status="PASS" signature="openbrowser(java.lang.reflect.Method)[pri:0, instance:com.bseindia.LoginPage.bseindiapoc@3bd40a57]" name="openbrowser" is-config="true" duration-ms="6231" started-at="2019-06-21T12:57:58Z" finished-at="2019-06-21T12:58:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.bseindia.LoginPage.bseindiapoc.bseindiaoperations() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="bseindiaoperations()[pri:0, instance:com.bseindia.LoginPage.bseindiapoc@3bd40a57]" name="bseindiaoperations" duration-ms="54601" started-at="2019-06-21T12:58:04Z" finished-at="2019-06-21T12:58:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bseindiaoperations -->
+        <test-method status="PASS" signature="browserclose()[pri:0, instance:com.bseindia.LoginPage.bseindiapoc@3bd40a57]" name="browserclose" is-config="true" duration-ms="293" started-at="2019-06-21T12:58:58Z" finished-at="2019-06-21T12:58:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- com.bseindia.LoginPage.bseindiapoc -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
